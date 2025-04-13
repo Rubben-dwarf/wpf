@@ -1,0 +1,26 @@
+﻿<Window x:Class="ПР_9.StaffWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ПР_9"
+        mc:Ignorable="d"
+        Title="StaffWindow" Height="450" Width="800">
+    <StackPanel>
+        <StackPanel x:Name="Panel1" Orientation="Horizontal">
+            <ComboBox x:Name="RolesComboBox" Width ="150" Height="20" IsEditable="True" Text="Поиск по роли" Margin="50, 5, 10, 5" />
+            <Button x:Name="AddUserButton" Content="Добавить пользователя" Width="150" Height="25" Margin="15, 0, 15, 0" Click="AddUserButton_Click"/>
+            <Button x:Name="DeleteUserButton" Content="Удалить пользователя" Width="150" Height="25" Margin="15, 0, 15, 0"/>
+            <Button x:Name="EditUserButton" Content="Изменить пользователя" Width="150" Height="25" Margin="15, 0, 15, 0"/>
+        </StackPanel>
+            <DataGrid x:Name="UserDataGrid" AutoGenerateColumns="False" Width="800" Height="410">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding Id}" Width="Auto"/>
+                <DataGridTextColumn Header="Имя" Binding="{Binding FirstName}" Width="Auto"/>
+                <DataGridTextColumn Header="Роль" Binding="{Binding IdRole}" Width="Auto"/>
+                <DataGridTextColumn Header="Страна" Binding="{Binding IdCountry}" Width="Auto"/>
+                <DataGridTextColumn Header="Пол" Binding="{Binding IdGender}" Width="Auto"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </StackPanel>
+</Window>

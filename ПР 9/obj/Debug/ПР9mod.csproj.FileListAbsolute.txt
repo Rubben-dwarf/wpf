@@ -1,0 +1,34 @@
+C:\Users\leonid\source\repos\ПР 9\ПР 9\bin\Debug\ПР 9.exe.config
+C:\Users\leonid\source\repos\ПР 9\ПР 9\bin\Debug\ПР 9.exe
+C:\Users\leonid\source\repos\ПР 9\ПР 9\bin\Debug\ПР 9.pdb
+C:\Users\leonid\source\repos\ПР 9\ПР 9\bin\Debug\EntityFramework.dll
+C:\Users\leonid\source\repos\ПР 9\ПР 9\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\leonid\source\repos\ПР 9\ПР 9\bin\Debug\EntityFramework.xml
+C:\Users\leonid\source\repos\ПР 9\ПР 9\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\leonid\source\repos\ПР 9\ПР 9\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\ПР9mod.csproj.AssemblyReference.cache
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\AddCountryPage.g.cs
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\ChangeCountry.g.cs
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\CountriesWindow.g.cs
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\MainWindow.g.cs
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\App.g.cs
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\ПР 9_Content.g.cs
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\ПР 9_MarkupCompile.cache
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\ПР 9_MarkupCompile.lref
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\AddCountryPage.baml
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\CountriesWindow.baml
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\MainWindow.baml
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\ChangeCountry.baml
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\ПР 9.g.resources
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\ПР_9.Properties.Resources.resources
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\ПР9mod.csproj.GenerateResource.cache
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\ПР9mod.csproj.CoreCompileInputs.cache
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\ПР9mod.csproj.Up2Date
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\ПР 9.exe
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\ПР 9.pdb
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\StaffWindow.g.cs
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\StaffWindow.baml
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\AddUser.g.cs
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\RolesWindow.g.cs
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\RolesWindow.baml
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\AddUser.baml

@@ -1,0 +1,53 @@
+D:\Cinema_project\ПР 9\ПР 9\bin\Debug\ПР 9.exe.config
+D:\Cinema_project\ПР 9\ПР 9\bin\Debug\ПР 9.exe
+D:\Cinema_project\ПР 9\ПР 9\bin\Debug\ПР 9.pdb
+D:\Cinema_project\ПР 9\ПР 9\obj\Debug\ПР 9.csproj.AssemblyReference.cache
+D:\Cinema_project\ПР 9\ПР 9\obj\Debug\MainWindow.g.cs
+D:\Cinema_project\ПР 9\ПР 9\obj\Debug\App.g.cs
+D:\Cinema_project\ПР 9\ПР 9\obj\Debug\ПР 9_MarkupCompile.cache
+D:\Cinema_project\ПР 9\ПР 9\obj\Debug\ПР 9_MarkupCompile.lref
+D:\Cinema_project\ПР 9\ПР 9\obj\Debug\MainWindow.baml
+D:\Cinema_project\ПР 9\ПР 9\obj\Debug\ПР 9.g.resources
+D:\Cinema_project\ПР 9\ПР 9\obj\Debug\ПР_9.Properties.Resources.resources
+D:\Cinema_project\ПР 9\ПР 9\obj\Debug\ПР 9.csproj.GenerateResource.cache
+D:\Cinema_project\ПР 9\ПР 9\obj\Debug\ПР 9.csproj.CoreCompileInputs.cache
+D:\Cinema_project\ПР 9\ПР 9\obj\Debug\ПР 9.exe
+D:\Cinema_project\ПР 9\ПР 9\obj\Debug\ПР 9.pdb
+D:\Cinema_project\ПР 9\ПР 9\obj\Debug\ПР 9_Content.g.cs
+D:\Cinema_project\ПР 9\ПР 9\bin\Debug\EntityFramework.dll
+D:\Cinema_project\ПР 9\ПР 9\bin\Debug\EntityFramework.SqlServer.dll
+D:\Cinema_project\ПР 9\ПР 9\bin\Debug\EntityFramework.xml
+D:\Cinema_project\ПР 9\ПР 9\bin\Debug\EntityFramework.SqlServer.xml
+D:\Cinema_project\ПР 9\ПР 9\obj\Debug\ПР 9.csproj.Up2Date
+D:\Cinema_project\ПР 9\ПР 9\obj\Debug\AddCountryPage.g.cs
+D:\Cinema_project\ПР 9\ПР 9\obj\Debug\AddCountryPage.baml
+D:\Cinema_project\ПР 9\ПР 9\obj\Debug\CountriesWindow.g.cs
+D:\Cinema_project\ПР 9\ПР 9\obj\Debug\CountriesWindow.baml
+C:\Users\leonid\source\repos\ПР 9\ПР 9\bin\Debug\ПР 9.exe.config
+C:\Users\leonid\source\repos\ПР 9\ПР 9\bin\Debug\ПР 9.exe
+C:\Users\leonid\source\repos\ПР 9\ПР 9\bin\Debug\ПР 9.pdb
+C:\Users\leonid\source\repos\ПР 9\ПР 9\bin\Debug\EntityFramework.dll
+C:\Users\leonid\source\repos\ПР 9\ПР 9\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\leonid\source\repos\ПР 9\ПР 9\bin\Debug\EntityFramework.xml
+C:\Users\leonid\source\repos\ПР 9\ПР 9\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\leonid\source\repos\ПР 9\ПР 9\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\ПР 9.csproj.AssemblyReference.cache
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\AddCountryPage.g.cs
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\CountriesWindow.g.cs
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\MainWindow.g.cs
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\App.g.cs
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\ПР 9_Content.g.cs
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\ПР 9_MarkupCompile.cache
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\ПР 9_MarkupCompile.lref
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\AddCountryPage.baml
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\CountriesWindow.baml
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\MainWindow.baml
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\ПР 9.g.resources
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\ПР_9.Properties.Resources.resources
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\ПР 9.csproj.GenerateResource.cache
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\ПР 9.csproj.CoreCompileInputs.cache
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\ПР 9.csproj.Up2Date
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\ПР 9.exe
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\ПР 9.pdb
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\ChangeCountry.g.cs
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\ChangeCountry.baml
