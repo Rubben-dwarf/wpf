@@ -8,18 +8,18 @@
         Title="StaffWindow" Height="450" Width="800">
     <StackPanel>
         <StackPanel x:Name="Panel1" Orientation="Horizontal">
-            <ComboBox x:Name="RolesComboBox" Width ="150" Height="20" IsEditable="True" Text="Поиск по роли" Margin="50, 5, 10, 5" />
+            <ComboBox x:Name="RolesComboBox" Width ="150" Height="20" IsEditable="True" Text="Поиск по роли" Margin="50, 5, 10, 5" DisplayMemberPath="RoleName" SelectionChanged="RolesComboBox_SelectionChanged"  />
             <Button x:Name="AddUserButton" Content="Добавить пользователя" Width="150" Height="25" Margin="15, 0, 15, 0" Click="AddUserButton_Click"/>
-            <Button x:Name="DeleteUserButton" Content="Удалить пользователя" Width="150" Height="25" Margin="15, 0, 15, 0"/>
-            <Button x:Name="EditUserButton" Content="Изменить пользователя" Width="150" Height="25" Margin="15, 0, 15, 0"/>
+            <Button x:Name="DeleteUserButton" Content="Удалить пользователя" Width="150" Height="25" Margin="15, 0, 15, 0" Click="DeleteUserButton_Click"/>
+            <Button x:Name="EditUserButton" Content="Изменить пользователя" Width="150" Height="25" Margin="15, 0, 15, 0" Click="EditUserButton_Click"/>
         </StackPanel>
             <DataGrid x:Name="UserDataGrid" AutoGenerateColumns="False" Width="800" Height="410">
             <DataGrid.Columns>
                 <DataGridTextColumn Header="ID" Binding="{Binding Id}" Width="Auto"/>
                 <DataGridTextColumn Header="Имя" Binding="{Binding FirstName}" Width="Auto"/>
-                <DataGridTextColumn Header="Роль" Binding="{Binding IdRole}" Width="Auto"/>
-                <DataGridTextColumn Header="Страна" Binding="{Binding IdCountry}" Width="Auto"/>
-                <DataGridTextColumn Header="Пол" Binding="{Binding IdGender}" Width="Auto"/>
+                <DataGridTextColumn Header="Роль" Binding="{Binding RoleName}" Width="Auto"/>
+                <DataGridTextColumn Header="Страна" Binding="{Binding CountryName}" Width="Auto"/>
+                <DataGridTextColumn Header="Пол" Binding="{Binding GenderName}" Width="Auto"/>
             </DataGrid.Columns>
         </DataGrid>
     </StackPanel>

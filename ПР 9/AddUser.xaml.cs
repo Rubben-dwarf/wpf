@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -36,7 +37,7 @@ namespace ПР_9
         private void DoneButton_Click(object sender, RoutedEventArgs e)
         {
             string UserName = FirstNameBox.Text.Trim();
-            
+
             if (string.IsNullOrWhiteSpace(UserName))
             {
                 MessageBox.Show("Введите название страны", "Ошибка",
@@ -54,16 +55,32 @@ namespace ПР_9
                                       MessageBoxButton.OK, MessageBoxImage.Warning);
                         return;
                     }
+                    if (CountryBox.SelectedItem != null && RolesBox.SelectedItem != null && GenderBox.SelectedItem != null)
+                    {
+                        int countryId = ((Countries)CountryBox.SelectedItem).Id;
+                        int roleId = ((Roles)RolesBox.SelectedItem).Id;
+                        int genderId = ((Gender)GenderBox.SelectedItem).Id;
+                        var newUser = new Users { FirstName = UserName, IdRole = roleId, IdCountry = countryId, IdGender = genderId };
+                        context.Users.Add(newUser);
+                        try
+                        {
+                            context.SaveChanges();
+                            MessageBox.Show("Пользователь успешно добавлен!");
+                            UserAdded?.Invoke();
+                            this.Close();
 
-                    //var newCountry = new Countries { CountryName = countryName };
-                    //context.Countries.Add(newCountry);
-                    //context.SaveChanges();
+                        }
+                        catch (Exception ex)
+                        {
+                            MessageBox.Show($"Ошибка: {ex.Message}");
+                        }
 
-                    //MessageBox.Show("Страна успешно добавлена", "Успех",
-                    //              MessageBoxButton.OK, MessageBoxImage.Information);
-
-                    //CountryAdded?.Invoke();
-                    //this.Close();
+                        
+                    }
+                    else
+                    {
+                        MessageBox.Show("Выберите все поля!");
+                    }
                 }
             }
             catch (Exception ex)
@@ -71,6 +88,8 @@ namespace ПР_9
                 MessageBox.Show($"Ошибка при добавлении страны: {ex.Message}", "Ошибка",
                               MessageBoxButton.OK, MessageBoxImage.Error);
             }
+            }
+
         }
     }
-}
+

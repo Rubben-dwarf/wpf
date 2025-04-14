@@ -3,20 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\leonid\\source\\repos\\\u041F\u0420 9\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A4BCE3C0-DC09-40AB-83A3-F05C6BE47876}|\u041F\u0420 9\\\u041F\u04209mod.csproj|c:\\users\\leonid\\source\\repos\\\u043F\u0440 9\\\u043F\u0440 9\\adduser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4BCE3C0-DC09-40AB-83A3-F05C6BE47876}|\u041F\u0420 9\\\u041F\u04209mod.csproj|solutionrelative:\u043F\u0440 9\\adduser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4BCE3C0-DC09-40AB-83A3-F05C6BE47876}|\u041F\u0420 9\\\u041F\u04209mod.csproj|c:\\users\\leonid\\source\\repos\\\u043F\u0440 9\\\u043F\u0440 9\\staffwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BCE3C0-DC09-40AB-83A3-F05C6BE47876}|\u041F\u0420 9\\\u041F\u04209mod.csproj|solutionrelative:\u043F\u0440 9\\staffwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4BCE3C0-DC09-40AB-83A3-F05C6BE47876}|\u041F\u0420 9\\\u041F\u04209mod.csproj|c:\\users\\leonid\\source\\repos\\\u043F\u0440 9\\\u043F\u0440 9\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4BCE3C0-DC09-40AB-83A3-F05C6BE47876}|\u041F\u0420 9\\\u041F\u04209mod.csproj|solutionrelative:\u043F\u0440 9\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4BCE3C0-DC09-40AB-83A3-F05C6BE47876}|\u041F\u0420 9\\\u041F\u04209mod.csproj|c:\\users\\leonid\\source\\repos\\\u043F\u0440 9\\\u043F\u0440 9\\changeuser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BCE3C0-DC09-40AB-83A3-F05C6BE47876}|\u041F\u0420 9\\\u041F\u04209mod.csproj|solutionrelative:\u043F\u0440 9\\changeuser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BCE3C0-DC09-40AB-83A3-F05C6BE47876}|\u041F\u0420 9\\\u041F\u04209mod.csproj|c:\\users\\leonid\\source\\repos\\\u043F\u0440 9\\\u043F\u0440 9\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BCE3C0-DC09-40AB-83A3-F05C6BE47876}|\u041F\u0420 9\\\u041F\u04209mod.csproj|solutionrelative:\u043F\u0440 9\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BCE3C0-DC09-40AB-83A3-F05C6BE47876}|\u041F\u0420 9\\\u041F\u04209mod.csproj|c:\\users\\leonid\\source\\repos\\\u043F\u0440 9\\\u043F\u0440 9\\staffwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A4BCE3C0-DC09-40AB-83A3-F05C6BE47876}|\u041F\u0420 9\\\u041F\u04209mod.csproj|solutionrelative:\u043F\u0440 9\\staffwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BCE3C0-DC09-40AB-83A3-F05C6BE47876}|\u041F\u0420 9\\\u041F\u04209mod.csproj|c:\\users\\leonid\\source\\repos\\\u043F\u0440 9\\\u043F\u0440 9\\changecountry.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BCE3C0-DC09-40AB-83A3-F05C6BE47876}|\u041F\u0420 9\\\u041F\u04209mod.csproj|solutionrelative:\u043F\u0440 9\\changecountry.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BCE3C0-DC09-40AB-83A3-F05C6BE47876}|\u041F\u0420 9\\\u041F\u04209mod.csproj|c:\\users\\leonid\\source\\repos\\\u043F\u0440 9\\\u043F\u0440 9\\changeuser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A4BCE3C0-DC09-40AB-83A3-F05C6BE47876}|\u041F\u0420 9\\\u041F\u04209mod.csproj|solutionrelative:\u043F\u0440 9\\changeuser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BCE3C0-DC09-40AB-83A3-F05C6BE47876}|\u041F\u0420 9\\\u041F\u04209mod.csproj|C:\\Users\\leonid\\source\\repos\\\u041F\u0420 9\\\u043F\u0440 9\\adduser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BCE3C0-DC09-40AB-83A3-F05C6BE47876}|\u041F\u0420 9\\\u041F\u04209mod.csproj|solutionrelative:\u043F\u0440 9\\adduser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A4BCE3C0-DC09-40AB-83A3-F05C6BE47876}|\u041F\u0420 9\\\u041F\u04209mod.csproj|c:\\users\\leonid\\source\\repos\\\u043F\u0440 9\\\u043F\u0440 9\\adduser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A4BCE3C0-DC09-40AB-83A3-F05C6BE47876}|\u041F\u0420 9\\\u041F\u04209mod.csproj|solutionrelative:\u043F\u0440 9\\adduser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4BCE3C0-DC09-40AB-83A3-F05C6BE47876}|\u041F\u0420 9\\\u041F\u04209mod.csproj|c:\\users\\leonid\\source\\repos\\\u043F\u0440 9\\\u043F\u0440 9\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{A4BCE3C0-DC09-40AB-83A3-F05C6BE47876}|\u041F\u0420 9\\\u041F\u04209mod.csproj|C:\\Users\\leonid\\source\\repos\\\u041F\u0420 9\\\u043F\u0440 9\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BCE3C0-DC09-40AB-83A3-F05C6BE47876}|\u041F\u0420 9\\\u041F\u04209mod.csproj|solutionrelative:\u043F\u0440 9\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BCE3C0-DC09-40AB-83A3-F05C6BE47876}|\u041F\u0420 9\\\u041F\u04209mod.csproj|C:\\Users\\leonid\\source\\repos\\\u041F\u0420 9\\\u043F\u0440 9\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A4BCE3C0-DC09-40AB-83A3-F05C6BE47876}|\u041F\u0420 9\\\u041F\u04209mod.csproj|solutionrelative:\u043F\u0440 9\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BCE3C0-DC09-40AB-83A3-F05C6BE47876}|\u041F\u0420 9\\\u041F\u04209mod.csproj|c:\\users\\leonid\\source\\repos\\\u043F\u0440 9\\\u043F\u0440 9\\data\\model2.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BCE3C0-DC09-40AB-83A3-F05C6BE47876}|\u041F\u0420 9\\\u041F\u04209mod.csproj|solutionrelative:\u043F\u0440 9\\data\\model2.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BCE3C0-DC09-40AB-83A3-F05C6BE47876}|\u041F\u0420 9\\\u041F\u04209mod.csproj|c:\\users\\leonid\\source\\repos\\\u043F\u0440 9\\\u043F\u0440 9\\addcountrypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BCE3C0-DC09-40AB-83A3-F05C6BE47876}|\u041F\u0420 9\\\u041F\u04209mod.csproj|solutionrelative:\u043F\u0440 9\\addcountrypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BCE3C0-DC09-40AB-83A3-F05C6BE47876}|\u041F\u0420 9\\\u041F\u04209mod.csproj|c:\\users\\leonid\\source\\repos\\\u043F\u0440 9\\\u043F\u0440 9\\data\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BCE3C0-DC09-40AB-83A3-F05C6BE47876}|\u041F\u0420 9\\\u041F\u04209mod.csproj|solutionrelative:\u043F\u0440 9\\data\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +62,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -46,7 +86,71 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChangeUser.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\leonid\\source\\repos\\\u041F\u0420 9\\\u041F\u0420 9\\ChangeUser.xaml.cs",
+              "RelativeDocumentMoniker": "\u041F\u0420 9\\ChangeUser.xaml.cs",
+              "ToolTip": "C:\\Users\\leonid\\source\\repos\\\u041F\u0420 9\\\u041F\u0420 9\\ChangeUser.xaml.cs",
+              "RelativeToolTip": "\u041F\u0420 9\\ChangeUser.xaml.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T19:59:54.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChangeUser.xaml",
+              "DocumentMoniker": "C:\\Users\\leonid\\source\\repos\\\u041F\u0420 9\\\u041F\u0420 9\\ChangeUser.xaml",
+              "RelativeDocumentMoniker": "\u041F\u0420 9\\ChangeUser.xaml",
+              "ToolTip": "C:\\Users\\leonid\\source\\repos\\\u041F\u0420 9\\\u041F\u0420 9\\ChangeUser.xaml",
+              "RelativeToolTip": "\u041F\u0420 9\\ChangeUser.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-14T19:58:34.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\leonid\\source\\repos\\\u041F\u0420 9\\\u041F\u0420 9\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "\u041F\u0420 9\\UserViewModel.cs",
+              "ToolTip": "C:\\Users\\leonid\\source\\repos\\\u041F\u0420 9\\\u041F\u0420 9\\UserViewModel.cs",
+              "RelativeToolTip": "\u041F\u0420 9\\UserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T18:07:16.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StaffWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\leonid\\source\\repos\\\u041F\u0420 9\\\u041F\u0420 9\\StaffWindow.xaml.cs",
+              "RelativeDocumentMoniker": "\u041F\u0420 9\\StaffWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\leonid\\source\\repos\\\u041F\u0420 9\\\u041F\u0420 9\\StaffWindow.xaml.cs*",
+              "RelativeToolTip": "\u041F\u0420 9\\StaffWindow.xaml.cs*",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAewJMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:50:19.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\leonid\\source\\repos\\\u041F\u0420 9\\\u041F\u0420 9\\Data\\Users.cs",
+              "RelativeDocumentMoniker": "\u041F\u0420 9\\Data\\Users.cs",
+              "ToolTip": "C:\\Users\\leonid\\source\\repos\\\u041F\u0420 9\\\u041F\u0420 9\\Data\\Users.cs",
+              "RelativeToolTip": "\u041F\u0420 9\\Data\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:29:19.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "AddUser.xaml",
               "DocumentMoniker": "C:\\Users\\leonid\\source\\repos\\\u041F\u0420 9\\\u041F\u0420 9\\AddUser.xaml",
               "RelativeDocumentMoniker": "\u041F\u0420 9\\AddUser.xaml",
@@ -58,7 +162,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
+              "Title": "AddUser.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\leonid\\source\\repos\\\u041F\u0420 9\\\u041F\u0420 9\\AddUser.xaml.cs",
+              "RelativeDocumentMoniker": "\u041F\u0420 9\\AddUser.xaml.cs",
+              "ToolTip": "C:\\Users\\leonid\\source\\repos\\\u041F\u0420 9\\\u041F\u0420 9\\AddUser.xaml.cs",
+              "RelativeToolTip": "\u041F\u0420 9\\AddUser.xaml.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAD0AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T17:39:21.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\leonid\\source\\repos\\\u041F\u0420 9\\\u041F\u0420 9\\MainWindow.xaml",
               "RelativeDocumentMoniker": "\u041F\u0420 9\\MainWindow.xaml",
@@ -70,28 +187,66 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\leonid\\source\\repos\\\u041F\u0420 9\\\u041F\u0420 9\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "\u041F\u0420 9\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\leonid\\source\\repos\\\u041F\u0420 9\\\u041F\u0420 9\\MainWindow.xaml.cs",
               "RelativeToolTip": "\u041F\u0420 9\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-03T17:39:45.52Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AddUser.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\leonid\\source\\repos\\\u041F\u0420 9\\\u041F\u0420 9\\AddUser.xaml.cs",
-              "RelativeDocumentMoniker": "\u041F\u0420 9\\AddUser.xaml.cs",
-              "ToolTip": "C:\\Users\\leonid\\source\\repos\\\u041F\u0420 9\\\u041F\u0420 9\\AddUser.xaml.cs*",
-              "RelativeToolTip": "\u041F\u0420 9\\AddUser.xaml.cs*",
-              "ViewState": "AgIAABgAAAAAAAAAAAAiwCoAAABSAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "StaffWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\leonid\\source\\repos\\\u041F\u0420 9\\\u041F\u0420 9\\StaffWindow.xaml",
+              "RelativeDocumentMoniker": "\u041F\u0420 9\\StaffWindow.xaml",
+              "ToolTip": "C:\\Users\\leonid\\source\\repos\\\u041F\u0420 9\\\u041F\u0420 9\\StaffWindow.xaml",
+              "RelativeToolTip": "\u041F\u0420 9\\StaffWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-14T17:50:04.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChangeCountry.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\leonid\\source\\repos\\\u041F\u0420 9\\\u041F\u0420 9\\ChangeCountry.xaml.cs",
+              "RelativeDocumentMoniker": "\u041F\u0420 9\\ChangeCountry.xaml.cs",
+              "ToolTip": "C:\\Users\\leonid\\source\\repos\\\u041F\u0420 9\\\u041F\u0420 9\\ChangeCountry.xaml.cs",
+              "RelativeToolTip": "\u041F\u0420 9\\ChangeCountry.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwCcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T17:39:21.736Z",
+              "WhenOpened": "2025-04-14T20:08:08.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddCountryPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\leonid\\source\\repos\\\u041F\u0420 9\\\u041F\u0420 9\\AddCountryPage.xaml.cs",
+              "RelativeDocumentMoniker": "\u041F\u0420 9\\AddCountryPage.xaml.cs",
+              "ToolTip": "C:\\Users\\leonid\\source\\repos\\\u041F\u0420 9\\\u041F\u0420 9\\AddCountryPage.xaml.cs",
+              "RelativeToolTip": "\u041F\u0420 9\\AddCountryPage.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwCcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:41:22.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Model2.Context.cs",
+              "DocumentMoniker": "C:\\Users\\leonid\\source\\repos\\\u041F\u0420 9\\\u041F\u0420 9\\Data\\Model2.Context.cs",
+              "RelativeDocumentMoniker": "\u041F\u0420 9\\Data\\Model2.Context.cs",
+              "ToolTip": "C:\\Users\\leonid\\source\\repos\\\u041F\u0420 9\\\u041F\u0420 9\\Data\\Model2.Context.cs",
+              "RelativeToolTip": "\u041F\u0420 9\\Data\\Model2.Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T18:18:23.272Z",
               "EditorCaption": ""
             }
           ]

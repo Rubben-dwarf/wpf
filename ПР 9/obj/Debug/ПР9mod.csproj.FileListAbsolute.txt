@@ -32,3 +32,5 @@ C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\AddUser.g.cs
 C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\RolesWindow.g.cs
 C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\RolesWindow.baml
 C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\AddUser.baml
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\ChangeUser.g.cs
+C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\ChangeUser.baml
