@@ -70,6 +70,33 @@
     <Compile Include="ChangeUser.xaml.cs">
       <DependentUpon>ChangeUser.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Data\Countries.cs">
+      <DependentUpon>ModelLisav.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Data\Gender.cs">
+      <DependentUpon>ModelLisav.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Data\ModelLisav.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ModelLisav.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Data\ModelLisav.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ModelLisav.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Data\ModelLisav.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ModelLisav.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Data\Roles.cs">
+      <DependentUpon>ModelLisav.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Data\Users.cs">
+      <DependentUpon>ModelLisav.tt</DependentUpon>
+    </Compile>
     <Compile Include="RolesWindow.xaml.cs">
       <DependentUpon>RolesWindow.xaml</DependentUpon>
     </Compile>
@@ -114,12 +141,6 @@
     <Compile Include="CountriesWindow.xaml.cs">
       <DependentUpon>CountriesWindow.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Data\Countries.cs">
-      <DependentUpon>Model2.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Data\Gender.cs">
-      <DependentUpon>Model2.tt</DependentUpon>
-    </Compile>
     <Compile Include="Data\Model2.Context.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -134,12 +155,6 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Model2.edmx</DependentUpon>
-    </Compile>
-    <Compile Include="Data\Roles.cs">
-      <DependentUpon>Model2.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Data\Users.cs">
-      <DependentUpon>Model2.tt</DependentUpon>
     </Compile>
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
@@ -179,6 +194,13 @@
     <None Include="Data\Model2.edmx.diagram">
       <DependentUpon>Model2.edmx</DependentUpon>
     </None>
+    <EntityDeploy Include="Data\ModelLisav.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>ModelLisav.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="Data\ModelLisav.edmx.diagram">
+      <DependentUpon>ModelLisav.edmx</DependentUpon>
+    </None>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -205,6 +227,16 @@
       <Generator>TextTemplatingFileGenerator</Generator>
       <DependentUpon>Model2.edmx</DependentUpon>
       <LastGenOutput>Model2.cs</LastGenOutput>
+    </Content>
+    <Content Include="Data\ModelLisav.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>ModelLisav.edmx</DependentUpon>
+      <LastGenOutput>ModelLisav.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="Data\ModelLisav.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>ModelLisav.edmx</DependentUpon>
+      <LastGenOutput>ModelLisav.cs</LastGenOutput>
     </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

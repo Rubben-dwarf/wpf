@@ -34,3 +34,39 @@ C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\RolesWindow.baml
 C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\AddUser.baml
 C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\ChangeUser.g.cs
 C:\Users\leonid\source\repos\ПР 9\ПР 9\obj\Debug\ChangeUser.baml
+C:\Users\lisav\source\repos\wpf\ПР 9\bin\Debug\ПР 9.exe.config
+C:\Users\lisav\source\repos\wpf\ПР 9\bin\Debug\ПР 9.exe
+C:\Users\lisav\source\repos\wpf\ПР 9\bin\Debug\ПР 9.pdb
+C:\Users\lisav\source\repos\wpf\ПР 9\bin\Debug\EntityFramework.dll
+C:\Users\lisav\source\repos\wpf\ПР 9\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lisav\source\repos\wpf\ПР 9\bin\Debug\EntityFramework.xml
+C:\Users\lisav\source\repos\wpf\ПР 9\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lisav\source\repos\wpf\ПР 9\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\lisav\source\repos\wpf\ПР 9\obj\Debug\ПР9mod.csproj.AssemblyReference.cache
+C:\Users\lisav\source\repos\wpf\ПР 9\obj\Debug\AddCountryPage.g.cs
+C:\Users\lisav\source\repos\wpf\ПР 9\obj\Debug\AddUser.g.cs
+C:\Users\lisav\source\repos\wpf\ПР 9\obj\Debug\ChangeCountry.g.cs
+C:\Users\lisav\source\repos\wpf\ПР 9\obj\Debug\ChangeUser.g.cs
+C:\Users\lisav\source\repos\wpf\ПР 9\obj\Debug\CountriesWindow.g.cs
+C:\Users\lisav\source\repos\wpf\ПР 9\obj\Debug\MainWindow.g.cs
+C:\Users\lisav\source\repos\wpf\ПР 9\obj\Debug\RolesWindow.g.cs
+C:\Users\lisav\source\repos\wpf\ПР 9\obj\Debug\StaffWindow.g.cs
+C:\Users\lisav\source\repos\wpf\ПР 9\obj\Debug\App.g.cs
+C:\Users\lisav\source\repos\wpf\ПР 9\obj\Debug\ПР 9_Content.g.cs
+C:\Users\lisav\source\repos\wpf\ПР 9\obj\Debug\ПР 9_MarkupCompile.cache
+C:\Users\lisav\source\repos\wpf\ПР 9\obj\Debug\ПР 9_MarkupCompile.lref
+C:\Users\lisav\source\repos\wpf\ПР 9\obj\Debug\AddCountryPage.baml
+C:\Users\lisav\source\repos\wpf\ПР 9\obj\Debug\AddUser.baml
+C:\Users\lisav\source\repos\wpf\ПР 9\obj\Debug\ChangeCountry.baml
+C:\Users\lisav\source\repos\wpf\ПР 9\obj\Debug\ChangeUser.baml
+C:\Users\lisav\source\repos\wpf\ПР 9\obj\Debug\CountriesWindow.baml
+C:\Users\lisav\source\repos\wpf\ПР 9\obj\Debug\MainWindow.baml
+C:\Users\lisav\source\repos\wpf\ПР 9\obj\Debug\RolesWindow.baml
+C:\Users\lisav\source\repos\wpf\ПР 9\obj\Debug\StaffWindow.baml
+C:\Users\lisav\source\repos\wpf\ПР 9\obj\Debug\ПР 9.g.resources
+C:\Users\lisav\source\repos\wpf\ПР 9\obj\Debug\ПР_9.Properties.Resources.resources
+C:\Users\lisav\source\repos\wpf\ПР 9\obj\Debug\ПР9mod.csproj.GenerateResource.cache
+C:\Users\lisav\source\repos\wpf\ПР 9\obj\Debug\ПР9mod.csproj.CoreCompileInputs.cache
+C:\Users\lisav\source\repos\wpf\ПР 9\obj\Debug\ПР9mod.csproj.CopyComplete
+C:\Users\lisav\source\repos\wpf\ПР 9\obj\Debug\ПР 9.exe
+C:\Users\lisav\source\repos\wpf\ПР 9\obj\Debug\ПР 9.pdb

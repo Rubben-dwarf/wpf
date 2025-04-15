@@ -10,5 +10,7 @@
 
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("data/model2.context.tt")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("data/model2.tt")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("data/modellisav.context.tt")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("data/modellisav.tt")]
 
 

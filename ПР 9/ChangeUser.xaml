@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ПР_9"
         mc:Ignorable="d"
-        Title="ChangeUser" Height="450" Width="800">
+        Title="Изменить пользователя" Height="450" Width="800">
     <StackPanel VerticalAlignment="Center">
         <Label Content="Имя" Width="50" Margin="5" />
         <TextBox x:Name="FirstNameBox" Width="150" Height="20"/>

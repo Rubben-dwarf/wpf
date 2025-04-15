@@ -28,7 +28,7 @@ namespace ПР_9
 
         private void LoadCountries()
         {
-            using (var context = new task9Entities1())
+            using (var context = new test9EntitiesL())
             {
                 CountriesDataGrid.ItemsSource = context.Countries.ToList();
             }
@@ -46,7 +46,7 @@ namespace ПР_9
 
             try
             {
-                using (var context = new task9Entities1())
+                using (var context = new test9EntitiesL())
                 {
                    
                     var countryToDelete = context.Countries.Find(selectedCountry.Id);
@@ -97,7 +97,7 @@ namespace ПР_9
 
             try
             {
-                using (var context = new task9Entities1())
+                using (var context = new test9EntitiesL())
                 {
 
                     var countryToChange = context.Countries.Find(selectedCountry.Id);

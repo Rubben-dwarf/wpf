@@ -25,12 +25,12 @@ namespace ПР_9
         public StaffWindow()
         {
             InitializeComponent();
-            RolesComboBox.ItemsSource = Data.task9Entities1.GetContext().Roles.ToList();
+            RolesComboBox.ItemsSource = Data.test9EntitiesL.GetContext().Roles.ToList();
             LoadUsers();
         }
         public List<UserViewModel> UsersContext()
         {
-            using (task9Entities1 context2 = new task9Entities1())
+            using (test9EntitiesL context2 = new test9EntitiesL())
             {
                 return context2.Users.Select(u => new UserViewModel
                     {
@@ -68,7 +68,7 @@ namespace ПР_9
 
             try
             {
-                using (var context = new task9Entities1())
+                using (var context = new test9EntitiesL())
                 {
                     int userIdToDelete = selectedUser.Id;
                     var userToDelete = context.Users.Find(userIdToDelete);
@@ -106,23 +106,23 @@ namespace ПР_9
 
             try
             {
-                using (var context = new task9Entities1())
+                using (var context = new test9EntitiesL())
                 {
-
-                    var UserToChange = context.Countries.Find(selectedUser.Id);
-
+                    //int IdUserToChange = selectedUser.Id;
+                    //var UserToChange = context.Countries.Find(IdUserToChange);
+                    var UserToChange = context.Users.Find(selectedUser.Id);
                     if (UserToChange != null)
                     {
 
-                        if (UserToChange.Users != null && UserToChange.Users.Any())
-                        {
-                            var result = MessageBox.Show("Изменить данные пользователя?",
+                        //if (UserToChange != null && UserToChange.Any())
+                        //{
+                         var result = MessageBox.Show("Изменить данные пользователя?",
                                                        "Подтверждение",
                                                        MessageBoxButton.YesNo,
                                                        MessageBoxImage.Question);
 
-                            //if (result != MessageBoxResult.Yes) return;
-                        }
+                        if (result != MessageBoxResult.Yes) return;
+                        //}
 
                         ChangeUser changeUser = new ChangeUser();
                         changeUser.FirstNameBox.Text = selectedUser.FirstName;
@@ -130,8 +130,9 @@ namespace ПР_9
                         changeUser.CountryBox.Text = selectedUser.CountryName;
                         changeUser.GenderBox.Text = selectedUser.GenderName;
                         changeUser.label1.Content = selectedUser.Id;
-                        changeUser.Show();
-                        this.Close();
+                        changeUser.UserChanged += LoadUsers;
+                        changeUser.ShowDialog();
+                        
                     }
                 }
             }
@@ -145,7 +146,7 @@ namespace ПР_9
 
         private void RolesComboBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-            using (task9Entities1 context = new task9Entities1())
+            using (test9EntitiesL context = new test9EntitiesL())
             {
                 if (RolesComboBox.SelectedItem == null)
                 {
@@ -170,6 +171,11 @@ namespace ПР_9
                         .ToList();
                 }
             }
+        }
+
+        private void ReturnButton_Click(object sender, RoutedEventArgs e)
+        {
+            this.Close();
         }
     }
 }

@@ -29,9 +29,9 @@ namespace ПР_9
         }
         private void LoadComboBoxes()
         {
-            RolesBox.ItemsSource = Data.task9Entities1.GetContext().Roles.ToList();
-            CountryBox.ItemsSource = Data.task9Entities1.GetContext().Countries.ToList();
-            GenderBox.ItemsSource = Data.task9Entities1.GetContext().Gender.ToList();
+            RolesBox.ItemsSource = Data.test9EntitiesL.GetContext().Roles.ToList();
+            CountryBox.ItemsSource = Data.test9EntitiesL.GetContext().Countries.ToList();
+            GenderBox.ItemsSource = Data.test9EntitiesL.GetContext().Gender.ToList();
         }
 
         private void DoneButton_Click(object sender, RoutedEventArgs e)
@@ -47,7 +47,7 @@ namespace ПР_9
 
             try
             {
-                using (var context = new task9Entities1())
+                using (var context = new test9EntitiesL())
                 {
                     if (context.Users.Any(c => c.FirstName == UserName))
                     {

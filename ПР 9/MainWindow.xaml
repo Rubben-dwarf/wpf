@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ПР_9"
         mc:Ignorable="d"
-        Title="ПР 9" Height="450" Width="850">
+        Title="Главное окно" Height="450" Width="850">
     <Window.Resources>
         <Style x:Key="MenuButtonStyle" TargetType="Button">
             <Setter Property="FontSize" Value="15"/>

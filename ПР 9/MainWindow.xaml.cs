@@ -28,7 +28,7 @@ namespace ПР_9
         }
         private void LoadCountriesComboBox()
         {
-            CountryComboBox.ItemsSource = Data.task9Entities1.GetContext().Countries.ToList();
+            CountryComboBox.ItemsSource = Data.test9EntitiesL.GetContext().Countries.ToList();
         }
 
         private void AddCountry_Click(object sender, RoutedEventArgs e)

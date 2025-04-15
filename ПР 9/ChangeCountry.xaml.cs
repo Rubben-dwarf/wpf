@@ -41,7 +41,7 @@ namespace ПР_9
 
             try
             {
-                using (var context = new task9Entities1())
+                using (var context = new test9EntitiesL())
                 {
                     // Проверяем, существует ли уже такая страна
                     if (context.Countries.Any(c => c.CountryName == Name))

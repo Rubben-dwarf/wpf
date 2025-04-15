@@ -24,9 +24,9 @@ namespace ПР_9
         public ChangeUser()
         {
             InitializeComponent();
-            RolesBox.ItemsSource = Data.task9Entities1.GetContext().Roles.ToList();
-            CountryBox.ItemsSource = Data.task9Entities1.GetContext().Countries.ToList();
-            GenderBox.ItemsSource = Data.task9Entities1.GetContext().Gender.ToList();
+            RolesBox.ItemsSource = Data.test9EntitiesL.GetContext().Roles.ToList();
+            CountryBox.ItemsSource = Data.test9EntitiesL.GetContext().Countries.ToList();
+            GenderBox.ItemsSource = Data.test9EntitiesL.GetContext().Gender.ToList();
         }
 
         private void DoneButton_Click(object sender, RoutedEventArgs e)
@@ -40,7 +40,7 @@ namespace ПР_9
 
             try
             {
-                using (var context = new task9Entities1())
+                using (var context = new test9EntitiesL())
                 {
                     var rowToUpdate = context.Users.Find(Convert.ToInt32(label1.Content));
                     int countryId = ((Countries)CountryBox.SelectedItem).Id;
@@ -54,9 +54,6 @@ namespace ПР_9
 
                     MessageBox.Show("Данные пользователя успешно изменены", "Успех",
                                   MessageBoxButton.OK, MessageBoxImage.Information);
-
-                    StaffWindow StaffWindow = new StaffWindow();
-                    StaffWindow.Show();
                     UserChanged?.Invoke();
                     this.Close();
                 }

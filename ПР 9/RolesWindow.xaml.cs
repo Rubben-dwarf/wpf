@@ -27,7 +27,7 @@ namespace ПР_9
         }
         private void LoadRoles()
         {
-            using (var context = new task9Entities1())
+            using (var context = new test9EntitiesL())
             {
                 RolesDataGrid.ItemsSource = context.Roles.ToList();
             }
